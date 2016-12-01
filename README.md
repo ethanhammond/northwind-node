@@ -6,3 +6,5 @@ To run the project locally, type `mongod` in a terminal window. This starts mong
 
 To kill the mongoDB server, type `killall mongod` in a terminal window. This can also fix errors caused by having more than one instance of mongoDB running at a time.
 ___
+
+Note: Curl json POST to localhost currently doesn't return json data at the moment.
